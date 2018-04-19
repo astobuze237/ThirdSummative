@@ -86,11 +86,7 @@ namespace ThirdSummative
                 }
                 else if (scene == 8)
                 {
-                    //pictureBox1.BackgroundImage = Properties.Resources.RedButton;
-                    scene = 25;
-
-    
-                    
+                    scene = 25;                       
                 }
                 else if (scene == 9)
                 {
@@ -453,17 +449,6 @@ namespace ThirdSummative
                     blueLabel.Text = "No";
                     greenLabel.Text = "Of course!!!!";
                     break;
-                //case 17:
-                //    outputLabel.Text = "A few days later the propose!";
-                //    redLabel.Text = "";
-                //    blueLabel.Text = "";
-                //    outputLabel.Refresh();
-                //    Thread.Sleep(5000);
-                //    outputLabel.Text = "What do you say?";
-                //    redLabel.Text = "Yes";
-                //    blueLabel.Text = "No";
-                //    greenLabel.Text = "Of course!!!!";
-                //    break;
                 case 18:
                     pictureBox4.BackgroundImage = Properties.Resources.honeymoon;
                     redLabel.Text = "Yes";
