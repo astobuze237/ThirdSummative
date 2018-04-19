@@ -1,4 +1,8 @@
-﻿using System;
+﻿//Text Adventure Game
+//Astoria Buzek
+//April 19th 2018
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
